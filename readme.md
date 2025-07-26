@@ -15,3 +15,8 @@ pip install -e .
 ```bash
 flask --app flaskr run --debug
 ```
+
+### 4 - Testes
+```bash
+pytest
+```
